@@ -86,11 +86,7 @@ section > div > div > div {
     backface-visibility: hidden; 
 }
 
-/* front card */
-section > div > div > div:nth-child(1) {
-}
-
-/* /*  back card just purple background
+/*  back card just purple background
 section > div > div > div:nth-child(2) {
     background-color: #3329b9;
     transform: rotateY(180deg);
