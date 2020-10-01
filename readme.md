@@ -1,3 +1,12 @@
+visit the chess: https://elenatsap.github.io/Chess-Pro/
+
+!!!! I have two different versions for the back cards' backgrounds
+the commented-out one is for all cards to have a purple background.
+the active one is to get the fron chess board color
+
+---------------------------------------------------------------------------
+
+the task
 Task is "Chess Pro!"
 Yesterday I gave a task to prepare a divided background with 3 tones of green.
 Today the task is creating 8x8 chess board with gradient squares.
