@@ -1,5 +1,8 @@
-#visit the chess: 
-#the task
+visit the chess: 
+
+
+
+the task
 Task is "Chess Pro!"
 Yesterday I gave a task to prepare a divided background with 3 tones of green.
 Today the task is creating 8x8 chess board with gradient squares.
